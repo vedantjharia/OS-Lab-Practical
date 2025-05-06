@@ -1,0 +1,41 @@
+# Basic Ubuntu Commands
+
+1. pwd
+   - Description: Prints the current working directory
+   - Example: pwd
+
+2. cd
+   - Description: Change directory
+   - Example: cd Documents
+
+3. mkdir
+   - Description: Create a new directory
+   - Example: mkdir myfolder
+
+4. rmdir
+   - Description: Remove a directory
+   - Example: rmdir myfolder
+
+5. touch
+   - Description: Create an empty file
+   - Example: touch file.txt
+
+6. cp
+   - Description: Copy files and directories
+   - Example: cp file1.txt file2.txt
+
+7. mv
+   - Description: Move/rename files and directories
+   - Example: mv file1.txt folder/
+
+8. rm
+   - Description: Remove files and directories
+   - Example: rm file.txt
+
+9. man
+   - Description: Display manual of a command
+   - Example: man ls
+
+10. clear
+   - Description: Clear terminal screen
+   - Example: clear

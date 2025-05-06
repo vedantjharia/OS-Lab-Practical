@@ -1,0 +1,40 @@
+# ls Command Options
+
+1. ls
+   - Description: List files and directories in current directory
+
+2. ls -a
+   - Description: List all files including hidden files
+   - Example: ls -a
+
+3. ls -l
+   - Description: List files with detailed information (long listing)
+   - Example: ls -l
+
+4. ls -al
+   - Description: List all files with details
+   - Example: ls -al
+
+5. ls -lh
+   - Description: List files with human-readable file sizes
+   - Example: ls -lh
+
+6. ls -R
+   - Description: List files recursively
+   - Example: ls -R
+
+7. ls -t
+   - Description: Sort files by modification time (newest first)
+   - Example: ls -t
+
+8. ls -S
+   - Description: Sort files by file size (largest first)
+   - Example: ls -S
+
+9. ls --color
+   - Description: Display files in colorized format
+   - Example: ls --color
+
+10. ls -i
+    - Description: Display inode numbers
+    - Example: ls -i

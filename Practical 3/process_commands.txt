@@ -1,0 +1,54 @@
+# UNIX Process Management Commands
+
+1. ps
+   - Description: Display current processes
+   - Example: ps
+
+2. top
+   - Description: Display real-time process activity
+   - Example: top
+
+3. htop
+   - Description: Interactive process viewer (advanced version of top)
+   - Example: htop
+
+4. kill
+   - Description: Terminate a process
+   - Example: kill 1234
+     (where 1234 is process ID)
+
+5. killall
+   - Description: Kill processes by name
+   - Example: killall firefox
+
+6. nice
+   - Description: Start process with a given priority
+   - Example: nice -n 10 ./program
+
+7. renice
+   - Description: Change priority of a running process
+   - Example: renice -n 5 -p 1234
+
+8. bg
+   - Description: Resume a suspended process in background
+   - Example: bg
+
+9. fg
+   - Description: Bring background process to foreground
+   - Example: fg
+
+10. jobs
+    - Description: List background jobs
+    - Example: jobs
+
+11. nohup
+    - Description: Run process immune to hangups (continue after logout)
+    - Example: nohup ./program &
+
+12. pgrep
+    - Description: Find process ID by name
+    - Example: pgrep apache2
+
+13. pkill
+    - Description: Kill process by name
+    - Example: pkill apache2
